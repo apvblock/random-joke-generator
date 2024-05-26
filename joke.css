@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    border-bottom: 1px;
+    border-top: 1px;
+    border-left: 1px;
+    border-right: 1px;
+    background-color: antiquewhite;
+}
+
+.button{
+    display: flex;
+    border-width: 5px;
+}
